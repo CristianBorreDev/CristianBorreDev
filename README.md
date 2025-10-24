@@ -22,7 +22,7 @@ Mi trabajo nace desde la curiosidad, la calma y la intención de **entender cóm
 
 ⚙️ **Desarrollo**
 - Construcción de **APIs y microservicios básicos**.  
-- Experimentos con **FastAPI**, **React**, y **Next.js**.  
+- Experimentos con **NodeJS**, **FastAPI**, **React**, y **Astro**.  
 - Arquitecturas ligeras que permitan iterar rápido.
 
 🧩 **Exploración**
@@ -36,11 +36,11 @@ Mi trabajo nace desde la curiosidad, la calma y la intención de **entender cóm
 
 | Área | Stack |
 |------|--------|
-| **Frontend** | React, Next.js, Astro, TailwindCSS |
-| **Backend** | FastAPI, Node.js, Express |
-| **Bases de datos** | PostgreSQL, SQLite |
+| **Frontend** | React, Astro, TailwindCSS |
+| **Backend** | FastAPI, Node.js |
+| **Bases de datos** | PostgreSQL, MySQL, SQLite |
 | **Diseño** | Figma, Framer |
-| **Herramientas** | Git, Docker, Vercel |
+| **Herramientas** | Git, Docker, Vercel, Render |
 
 > “La herramienta correcta no siempre es la más popular, sino la que te hace fluir mejor.”
 
@@ -74,9 +74,8 @@ No busco competir. Busco crear con sentido.
 
 ## 💬 Contacto
 
-📩 **Email:** [próximamente]  
+📩 **Email:** crstnborre@gmail.com  
 🌐 **Sitio personal:** *(en desarrollo)*  
-📁 **GitHub:** [@cristian](#)  
 💡 **Proyectos:** centrados en experiencia, claridad y propósito.
 
 ---
