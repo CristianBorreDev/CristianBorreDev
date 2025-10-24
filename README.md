@@ -1,16 +1,96 @@
-## Hi there 👋
+# 🌙 Hola, soy Cristian
 
-<!--
-**CristianBorreDev/CristianBorreDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> *Construyo en silencio lo que después brilla con claridad.*
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧭 Sobre mí
+
+Soy **desarrollador front-end** y creador digital con enfoque en **interfaces limpias, intuitivas y funcionales**.  
+Disfruto explorar ideas, experimentar con tecnología y dar forma a herramientas que conecten estética con propósito.
+
+Mi trabajo nace desde la curiosidad, la calma y la intención de **entender cómo mejorar la experiencia digital de las personas**.
+
+---
+
+## 🧪 Lo que hago
+
+🎨 **Diseño & Frontend**
+- Creación de **landing pages modernas** y **sitios personales**.  
+- Prototipos de **dashboards, agendas y tableros interactivos**.  
+- Enfoque en usabilidad, rendimiento y simplicidad visual.
+
+⚙️ **Desarrollo**
+- Construcción de **APIs y microservicios básicos**.  
+- Experimentos con **FastAPI**, **React**, y **Next.js**.  
+- Arquitecturas ligeras que permitan iterar rápido.
+
+🧩 **Exploración**
+- Prototipos de sistemas modulares (CRUD, agenda, tablero, editor).  
+- Proyectos experimentales donde pruebo ideas sin presión.  
+- Laboratorio técnico-creativo en constante expansión.
+
+---
+
+## 🔧 Tecnologías favoritas
+
+| Área | Stack |
+|------|--------|
+| **Frontend** | React, Next.js, Astro, TailwindCSS |
+| **Backend** | FastAPI, Node.js, Express |
+| **Bases de datos** | PostgreSQL, SQLite |
+| **Diseño** | Figma, Framer |
+| **Herramientas** | Git, Docker, Vercel |
+
+> “La herramienta correcta no siempre es la más popular, sino la que te hace fluir mejor.”
+
+---
+
+## 📁 Proyectos
+
+### 🎨 Portafolio
+> Una muestra de proyectos, interfaces y experimentos personales.
+
+🔗 *(En desarrollo)* — pronto disponible.
+
+### 🧪 Laboratorio
+> Donde las ideas se transforman en prototipos.  
+> Un espacio para fallar, reinventar y construir sin miedo.
+
+🔗 *(En desarrollo)* — repositorio experimental.
+
+---
+
+## 🌱 Filosofía personal
+
+> “La creación es mi forma de entender el mundo.”  
+
+Trabajo con calma, escuchando las ideas antes de transformarlas.  
+Cada proyecto es una conversación entre diseño, emoción y estructura.
+
+No busco competir. Busco crear con sentido.
+
+---
+
+## 💬 Contacto
+
+📩 **Email:** [próximamente]  
+🌐 **Sitio personal:** *(en desarrollo)*  
+📁 **GitHub:** [@cristian](#)  
+💡 **Proyectos:** centrados en experiencia, claridad y propósito.
+
+---
+
+## 🌗 Ecosistema
+
+**Cristian** — el laboratorio, la mente creativa.  
+**Zentrix** — la expansión, la estructura que comunica.
+
+> Dos lados de una misma energía:  
+> uno crea desde la introspección,  
+> el otro comparte desde la claridad.
+
+---
+
+### ✴️ Cristian  
+**Creador. Explorador. Constructor de calma digital.**
