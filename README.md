@@ -75,7 +75,7 @@ No busco competir. Busco crear con sentido.
 ## 💬 Contacto
 
 📩 **Email:** crstnborre@gmail.com  
-🌐 **Sitio personal:** *(en desarrollo)*  
+🌐 **Sitio personal:** [cristian-dev.vercel.app](https://cristian-dev.vercel.app)
 💡 **Proyectos:** centrados en experiencia, claridad y propósito.
 
 ---
