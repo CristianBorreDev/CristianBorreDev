@@ -51,13 +51,13 @@ Mi trabajo nace desde la curiosidad, la calma y la intención de **entender cóm
 ### 🎨 Portafolio
 > Una muestra de proyectos, interfaces y experimentos personales.
 
-🔗 *(En desarrollo)* — pronto disponible.
+🔗 [cristian-dev.vercel.app](https://cristian-dev.vercel.app)  
 
 ### 🧪 Laboratorio
 > Donde las ideas se transforman en prototipos.  
 > Un espacio para fallar, reinventar y construir sin miedo.
 
-🔗 *(En desarrollo)* — repositorio experimental.
+🔗 [cristian-labs.vercel.app](https://cristian-labs.vercel.app)   — repositorio experimental.
 
 ---
 
