@@ -6,7 +6,7 @@
 
 ## 🧭 Sobre mí
 
-Soy **desarrollador front-end** y creador digital con enfoque en **interfaces limpias, intuitivas y funcionales**.  
+Soy **desarrollador web** y creador digital con enfoque en **interfaces limpias, intuitivas y funcionales**.  
 Disfruto explorar ideas, experimentar con tecnología y dar forma a herramientas que conecten estética con propósito.
 
 Mi trabajo nace desde la curiosidad, la calma y la intención de **entender cómo mejorar la experiencia digital de las personas**.
